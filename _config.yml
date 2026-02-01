@@ -1,5 +1,5 @@
 title: "AE-Cases"
-description: "AE-Cases is a collection of cases for the AE Modular format synth modules."
+description: "Laser cut and engrave files for AE Modular format cases."
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
