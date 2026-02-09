@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="2.0.05" DeviceName="Longer RAY5 via USB" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="False">
+    <Thumbnail Source="iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAAsTAAALEwEAmpwYAAAS0ElEQVR4nO3aeXBW1f3H8fcTQgIJJmSDCCgooGKQRSFGUUAQTECrVgHRSp0RKE7LUutYba1V26qoFVsXqiAiWKq0apVgSlWglIqgaETZgmxGQJAlSKAsId/fH2eYdubXlug9+iTP+bxmMoGZO597nuV+zrnnJmZmRgOza9cu1q9fz6ZNm2jdunW8hyMBW7RoEYMGDaJr167xHspXEmtoBTB16lTGjh1LLBYjNTWVgoKCeA9JArZhwwaSkpLIzc2lvLw83sP50hpUAXzxxRd06tSJu+++m+HDh5Oenh7vIYkAMHDgQMrLy9mxY0e8h/KlNKgC6N+/P61atWLmzJnxHorI/9OnTx+Sk5N588034z2UOmswBVBdXU1GRga1tbXxHorIf1RbW0tycjLV1dWkpaXFezh1khTvAdTVtGnTyM7OjvcwRP6rpKQksrKymDFjRryHUmcNpgDat29PUVFRnY4dORLmzvV7/l/8Ai68EHyul6ZNg3POgYMH/WVu3w7DhsGnn/rL3L8fXn4Z9u71lwkwaxasXes3c+xYmD3bb+YDD8B550FdFp+FhYW0a9fO7wC+TtZAlJaW2uDBg4973JAhZmlpZunpZitW+Dn3o4+aJSeb5eSYDR/uJ3PBArOmTc1OPNGsXTs/mVu3muXn/+v1+1Bdbdazp3v9eXl+Ms3MrrvODMwyMsw++8xP5qhRZk2auNe/bJmfzBkzzFJS3GsvKTn+8cXFxVZWVubn5N+ABrMCqItly+C119zMetppcO650TO3b4ef/xxGj4aHH/Y3E44YAT16wLx58PnnsGRJ9MzvfheqqtyMvX8/PPlk9Mxf/xqWL3erlL174eqro2fOmeNm//nzoWlTKCyMnrliBTz/PDzyiHtfe/WKnvnFF3DzzW5F9dRTsGgRbNwYPbdeiXcD1VVdVwA9e5qlprrZdeZMP+cePdrNgElJZtde6ydzyhQ3s4BZp05+MsvLzbKzzWIxNwvW1ETPrKlxs19ysllurtnHH0fPNDM7+2yzxo3dCuAvf/GT2a+fe09TU82mTvWTecst7rXHYmbFxcc/vqGtABKuAMzMRo40e/ttv+d/9lmziRP9Zi5caDZhgt/Mw4fNHnzQb+bRo+42aM8ev7lTppitWeM386ab3Pvq0+zZZnfcUbdjG1oBNJjHgHPnzmXy5MmUlpbGeygi/1VJSQnjx4+nuLg43kOpk4TaAxCRL0cFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASsIQrgF274PLLYdYsf5m1tXD99fDgg/4yAZ54Au66y2/mnDnQoQPMm+cv8403XOb99/vLXLvWfU6vveYvc/9+uPJKeOYZf5kAd9wBv/ud38x6wxqI0tJSGzx48P885tAhs1jMrGdPs9RUs2ee8XPurCyzk082A7Nx4/xkdu9ulpHhxtm3r9nRo9Ezb7zRrEkTs+JisxNOMKupiZ45fbob47hxZo0bm1VWRs9ct84sJcWsqMisaVOzt96KnmlmlpRk1qWLy370UT+Z+flmOTku+9przWpr//fxxcXFVlZW5ufk34CEWgEsWQJpaZCRAc2bw3PPRc98/33Iy4PTT4feveHll6NnVlRAfj40awbjxsHSpZAU8ZOorIQ2baCmBkpK4MABOHIkWubu3ZCV5XKystxKaNOmaJk1NbB9u8vq2dP99rFaW7LEfe4pKdC6NTz7bPTM8nJo2RLat4dLL4XXX4dYLHpuvRLvBqqruqwAzMw+/dTNWC1bmu3f7+fc777rVhYZGWarVvnJ3LnTzVQpKWavvuons6bGLC/PLC3NbMYMP5lmZpMmuZXFLbf4y1yxwq2oCgr8Ze7c6V57To7Zjh1+Mtetc599errZO+8c//iGtgJIjncB+da6NVRXu38ne3p155wDe/bA5s3QqZOfzJwcN8MuX+5WFj40agQ7dsD8+dCvn59MgAkT3I9PZ50FZn4zc3KgqsrN0r4++w4d3Pdp1Sro0cNPZn2SULcAxyQnw+HDfjMzM6FtW7+Z6elw2ml+M8EtWUPVuDEcPOg3My0tcd/ThCuAZcvcTHDHHf5KYOtWOPVUd9++caOfzJoa6N4dzjgDXnzRTya4HfDiYrjzTn+Z8+dDUZHfHfuNG6FzZ5g0CY4e9ZO5YoW7Zx8/Hg4d8pO5Z48r6Vat4IMP/GTWJwlVAGZwwQUwahQ88oh7zOTDOee45d9118H55/vJ7NPHzVY//anLjbphB3DbbTByJHTtChMnwpo10TNfesltKgJcdZWfjdW9e93SukkT+PGP3UaoD0VFMGwYzJwJF1/sJ7N7d1cA3/8+XHSRn8z6JKEKYNUqt7NeUeF+b9kSPXPLFvdEYdkyl5uaGj1z/353S7FypcvNzYVt26LnxmJuV71xY3+v/8CBf61WDh1yO/hRrV3rxtqihSvtysromRUVcMIJrvROOMHP+7ltm3v68d577olAZua/9pcSRrx3Ieuqrk8B5s1zz2zz8/2du7LS7Vg3amRWXu4n88ABt2PduLHZE0/4yTQzu+02lzl0qL/MF190O+EjR/rLrKhw72e3bv4yly5148zK8pe5fbv7PiUnmy1cePzj9RQgzgYOdDNffr6/zDZt3Ey1dau7F/ShaVO3Eli4EPr29ZMJcN99MHw4dOniL/Pb33YrC586dnQrC58KC2HnTsjO9pfZooXbo/jwQ/fkItEk1C3AMT4v/n/n6+L/dz4v/mN8XvwNjc+L/98l4sUPCVoAIlI3KgCRgKkARAKmAhAJmApAJGAqAJGAqQBEAqYCEAmYCkAkYCoAkYCpAEQCpgIQCZgKQCRgKgCRgKkARAKmAhAJmApAJGAqAJGAqQBEAqYCEAmYCkAkYCoAkYCpAEQCpgIQCZgKQCRgKgCRgKkARAKmAhAJmApAJGAqAJGAqQBEAqYCEAmYCkAkYCoAkYCpAEQCpgIQCZgKQCRgKgCRgKkARAKmAhAJmApAJGAqAJGAqQBEAqYCEAmYCkAkYCoAkYCpAEQCpgIQCZgKQCRgKgCRgKkARAKmAhAJmApAJGAqAJGAqQBEAqYCEAmYCkAkYCoAkYCpAEQCpgIQCZgKQCRgKgCRgKkARAKmAhAJmApAJGAqAJGAqQBEAqYCEAmYCkAkYCqABPTBB/4zlyzxnynxl3AF8NFH0Lo1FBTAli1+MvftgzPOgBYtYO1aP5lHjsAPfgCZmbB8uZ9MM3jsMTj/fBg40E8mwNSpcMklcOqpcPiwn8z58yE3F/r3h927/WSuXw8nnwwdOsAnn/jJPHQIBg2Cli3ddyvRJFQBbN4MXbq4L8C+fTBsWPTMmhp34VdXu9yLLoqeCXDKKTBlCvTrB+edB0ePRs/s2xduvhl++1t46y1YuTJ65j33wPe+B/fdBykp8Mgj0TNffx0uvtiVyrvvwvjx0TM//xw6doQTT3T/v+KK6JkAOTnw9tsuu3dvP5n1SUIVQMuWkJHhiuDTT90qICozt6IoLIR169ws6EPnzm58mze73z5mwf79ITsbnnoKWrXyUyq9e0OjRvCb30BVlVsJRdWjByQluYsfoH376Jnp6ZCf797Pyko47bTomUePus+7Z0+X6euzr08SqgCaNIENG1wRjBkDjz8ePbNxYzebvvOOW1r/+c/RMwFKS91FAPCHP0BeXvTMO+90F2xVFcyb51ZDUfXtC4sWuVVQWRl861vRM7Oy3O1ZUhLcfjvcdVf0zLQ0WLXKFdS118K0adEzGzWCv//d3Vp07Aivvho9s75JjvcAfMvOhqVL/Wa2aOFmgN27Xb4PycluBqyqgubN/WQCzJ7t7tNTUvxlFhXB4sX+8sCV9OrVfjObN4eFC/1mZmbCxx/Drl3udiDRJNQK4JjNm2HHDr+ZNTXwyit+MwGefNJ/pq9VytetttZ/5mefuds/3154wX9mfZBwBTB3rrtXO/tsP5tg4JaWKSkwejTcf7+fzKoql/mzn8Fll/nJBBg+HG64wW0y+vL44+5W6PLL4cABP5kVFW4V1LWrW135sGCB26/p3h3Ky/1kbt4MsRhMmAC33uonsz5JuAIYMsTthLdq5XbYDx6MnllSAhdcAG+8ARMnunvCqIYNc0vWrVvdfsDf/hY987HH3Ez117+6x1e/+lX0zKVLYexYeOABt68wYkT0TIDTT4dx49xt1cUX+8m8/HJXfp07uw3RvXujZxYXu5JatgyeeMJfsdQXCVcAZ5wBTz8N773nVgJNmkTPvOgi+Mc/4DvfgaZNoU2b6JlDhrgv/7nnQmqquyCiuuACN6tedRXs3Am9ekXP7NjR7Xvce6/bFDv77OiZ4Hbpn37aPb7zsVkJ7kL94x9dmZ50krt/j6qkBD78EK680n1O7dpFz6xPEq4A5s1zF8GNN7qL1ofp092yMiXF/SFQamr0zJEj3bPqI0dcWeXnR8/s1g3ef9/tiM+a5Xbwozq2qZqeDjNmwE9+Ej0T3LP1U06B225zF60PZWWuoK+7zt8fVz38sPs7DTNYs8bvhm19kHBPAfLy/G8Agtux9727/qc/uT8watbMX2ZBAWzc6C8P3HP6TZv8ZmZlwYoVfjObNYPt2/1mgnsCcvCgn9VkfZNwK4Cvk8+L/xifF798fRLx4gcVgEjQVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwFQAIgFTAYgETAUgEjAVgEjAVAAiAVMBiARMBSASMBWASMBUACIBUwGIBEwFIBIwFYBIwBKyAFasgLVr/WauWwcffeQ3s7YWqqr8ZgL88pdw+LC/PDO4/XbYutVfJsAHH8CmTX4zP/oI1qzxm7lvH+ze7Tezvki4AujQAXr1guJi+PhjP5lXXAFnnQV9+8LChX4y77oLMjMhNxcmT/aT+dprkJ4O99wDLVv6yfznPyEpCZ57Dtq0gf37/eRmZ8OFF8Ill8CePX4yu3aFoiIYMABWrvSTOWIE5OXBSSfBSy/5yaxPEqoAJk2C9eth8WJo2xYGDYLNm6NlvvEGvPoqPP00DB0Kw4bBokXRMleuhIkToU8fmDIFbr0VZs2Klvn553DDDe7Cr652P/fdFy0ToEcPSEmBykr3nl5zTfTM6693K5/KSojFoHdvVzRR/P73buX3/PPQpQtceqlbtUWxYIH7XH70I/jhD2HUKPd9SCjWQJSWltrgwYOPe9zQoWbp6WbNm5uNGuXn3CNGmLVrZ3byyWaFhX4yJ082y8sz69zZLDfXT2Z5uVnTpu61x2Jm+/ZFzzxyxOzEE81SUszS0swWLIieefSoWa9eZsnJZpmZZhMnRs80Mxs92iwjwywnx+zqq/1kTphgdtJJZqeealZQcPzji4uLrayszM/JvwHJ8S4g3154AV55BZo3dzOsD88+6+6Bc3PdbODDmDFu9lu9Gh54wE9m164wf75bqt57LyR7+HSTk6GiAj75BNq3h9TU6JlJSW6VNns2dO4MZ54ZPRPgySfhssvcGAcM8JM5aZK7XamthTvv9JNZn8TMzOI9iLoYP348c+bMYcOGDfEeish/1bZtW4YMGcJDDz0U76HUSYPZAxg6dCiNGjWK9zBE/qekpCSGDh0a72HUWYMpgF69etGsWTNuuummeA9F5D8aMGAAWVlZFBYWxnsoddag9gAWLVpEp06d6NatG9dccw2ZmZnxHpIIAP369WP16tVs27Yt3kP5UhrMHsAx06dPZ8yYMaSkpBCLxTjT1w6SyFewceNGYrEYrVq1Yvny5fEezpfW4AoAYO/evVRUVLBlyxby8/PjPRwJ2OLFiykpKaGgoCDeQ/lK/g98EECfNFt8FQAAAABJRU5ErkJggg=="/>
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="0"/>
+        <Optimize_OverlapDist Value="0.025"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="0"/>
+        <name Value="Board"/>
+        <maxPower Value="85"/>
+        <maxPower2 Value="20"/>
+        <speed Value="4"/>
+        <kerf Value="0.1"/>
+        <priority Value="1"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="1"/>
+        <name Value="Holes"/>
+        <maxPower Value="85"/>
+        <maxPower2 Value="20"/>
+        <speed Value="4"/>
+        <kerf Value="-0.12"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+    </CutSetting>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 0 0</XForm>
+        <Children>
+            <Shape Type="Path" CutIndex="0" VertID="40" PrimID="8">
+                <XForm>1 0 0 1 101.7 152</XForm>
+                <VertList>V101.7 -147c0x101.7c0y-149.76143c1x1V96.699997 -152c0x1c1x99.461426c1y-152V-96.699997 -152c0x-99.461418c0y-152c1x1V-101.7 -147c0x1c1x-101.7c1y-149.76143V-101.7 147c0x-101.7c0y149.76141c1x1V-96.699997 152c0x1c1x-99.461418c1y152V96.699997 152c0x99.461426c0y152c1x1V101.7 147c0x1c1x101.7c1y149.76141</VertList>
+                <PrimList>B0 1L1 2B2 3L3 4B4 5L5 6B6 7L7 0</PrimList>
+            </Shape>
+            <Shape Type="Group">
+                <XForm>1 0 0 0.96507937 101.7 54.044449</XForm>
+                <Children>
+                    <Shape Type="Group">
+                        <XForm>1 0 0 1 -229.8 -468.99963</XForm>
+                        <Children>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 242.50134 468.50092</XForm>
+                                <VertList>V47.902344 -26.869629c0x48.493774c0y-26.747864c1x47.408157c1y-26.97143V49.07159 -25.690998c0x49.188641c0y-25.098616c1x48.954544c1y-26.283379V48.438477 -24.15625c0x47.843315c0y-23.754667c1x48.939156c1y-24.493792V46.539551 -24.339355c0x46.257835c0y-24.620375c1x47.047005c1y-23.831442V46.09972 -25.399891c0x46.099728c0y-25.797802c1x46.099712c1y-25.001978V46.539551 -26.460449c0x46.895931c0y-26.817629c1x46.25787c1y-26.179399</VertList>
+                                <PrimList>B0 1B1 2B2 3B3 4B4 5B5 0</PrimList>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 242.49976 469.50024</XForm>
+                                <VertList>V-47.297852 -26.869629c0x1c1x1V-47.016113 -26.782227c0x-46.357063c0y-26.503664c1x1V-46.130371 -25.097656c0x-46.29755c0y-24.286167c1x-45.986301c1y-25.798506V-47.902344 -23.930664c0x-48.713707c0y-24.097729c1x-47.090801c1y-23.763746V-49.069336 -25.702148c0x-48.926212c0y-26.399685c1x-49.23613c1y-24.890732V-47.600098 -26.899902c0x1c1x-48.312164c1y-26.900303</VertList>
+                                <PrimList>L0 1B1 2B2 3B3 4B4 5L5 0</PrimList>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 191.70132 468.50085</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 191.69974 469.50018</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 318.70129 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 318.69971 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 267.90137 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 267.89978 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 217.10132 468.50085</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 217.09973 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 344.10132 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 344.09973 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 293.30133 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 293.29974 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 166.30136 468.50085</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 166.29977 469.50018</XForm>
+                            </Shape>
+                        </Children>
+                    </Shape>
+                    <Shape Type="Group" CutIndex="0">
+                        <XForm>1 0 0 1 -229.8 -265.99963</XForm>
+                        <Children>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 242.50134 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 242.49976 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 191.70132 468.50085</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 191.69974 469.50018</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 318.70129 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 318.69971 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 267.90137 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 267.89978 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 217.10132 468.50085</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 217.09973 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 344.10132 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 344.09973 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 293.30133 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 293.29974 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 166.30136 468.50085</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 166.29977 469.50018</XForm>
+                            </Shape>
+                        </Children>
+                    </Shape>
+                    <Shape Type="Group" CutIndex="0">
+                        <XForm>1 0 0 1 -229.80002 -367.49963</XForm>
+                        <Children>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 242.50134 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 242.49976 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 191.70132 468.50085</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 191.69974 469.50018</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 318.70129 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 318.69971 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 267.90137 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 267.89978 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 217.10132 468.50085</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 217.09973 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 344.10132 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 344.09973 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 293.30133 468.50092</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 293.29974 469.50024</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="8" PrimID="0">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 166.30136 468.50085</XForm>
+                            </Shape>
+                            <Shape Type="Path" CutIndex="1" VertID="47" PrimID="4">
+                                <XForm>-2.1855693e-07 1 1 2.1855693e-07 166.29977 469.50018</XForm>
+                            </Shape>
+                        </Children>
+                    </Shape>
+                </Children>
+            </Shape>
+        </Children>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>
