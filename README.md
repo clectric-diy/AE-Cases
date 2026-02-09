@@ -1,4 +1,3 @@
-# AE-Cases
 Laser cut and engrave files for AE Modular format cases.
 
 The [AE-12x1U Case](https://github.com/clectric-diy/AE-Cases/tree/main/AE-12x1U) is finished and ready to cut. Remember to do material and kerf tests to be sure that your laser settings are dialed in. These were designed to be cut on a 20W Longer RAY5 diode laser.
