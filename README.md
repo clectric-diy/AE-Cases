@@ -1,4 +1,4 @@
-Laser cut and engrave files for AE Modular format cases.
+Lightburn design files to cut Cases and "Caps" for the for the [AE Modular format](https://clectric.diy/formats/ae-modular/).
 
 *Our version* of the 12x1U Case and Cap are available for purchase at [store.clectric.diy](https://store.clectric.diy).
 
